@@ -546,6 +546,10 @@ footer{
 
 @media (max-width:413px){
 
+	#page1{
+		padding-top: 10vh;
+	}
+
 	#page1 h1{
 		font-size: 7vh;
 		font-family: futura;
@@ -553,4 +557,10 @@ footer{
 		line-height: 15vw;
 		letter-spacing: -4px;
 	}
+
+	#nav h1{
+		padding-top: 2vw;
+		font-size: 30px;
+		line-height: 6vw;
+	   }
 }
